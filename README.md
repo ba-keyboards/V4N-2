@@ -1,10 +1,10 @@
-#V4N^2
+# V4N<sup>2</sup>
 
-V4N^2 is a case for V4N4G0N-compatible PCBs. Specifically designed for Monorail which has 2 USB ports (only 1 is usable at a time), hence the name.
+V4N<sup>2</sup> is a case for V4N4G0N-compatible PCBs. Specifically designed for Monorail which has 2 USB ports (only 1 is usable at a time), hence the name.
 
-![V4N^2](renders/V4N2.png "Vandal")
+![V4N<sup>2</sup>](renders/V4N2.png "Vandal")
 
-V4N^2 utilizes Hullagon plate and mounting. The bottom part can be use as a low profile case without the top part.
+V4N<sup>2</sup> utilizes Hullagon plate and mounting. The bottom part can be use as a low profile case without the top part.
 
 The bottom part has 2 variants: Angled (5&deg;) and Flat. Both variants are compatible with all V4N4G0N PCBs.
 
