@@ -8,6 +8,11 @@ V4N<sup>2</sup> is a case for [V4N4G0N](https://trashman.wiki/keyboards/v4n4g0n)
 
 V4N<sup>2</sup> utilizes [Hullagon aka. R3 V4N4G0N plate](https://trashman.wiki/en/files#v4n4g0n) and mounting. The bottom part can be used without the top part as a low profile case.
 
+## Hardware
+
+* 4 Heatset size M2
+* 4 Screws size M2, socket head is highly recommended
+
 ## Variants
 
 The bottom part has 2 variants: Angled (5&deg;) and Flat.
