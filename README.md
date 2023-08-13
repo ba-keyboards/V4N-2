@@ -8,14 +8,6 @@ V4N<sup>2</sup> is a case for [V4N4G0N](https://trashman.wiki/keyboards/v4n4g0n)
 
 V4N<sup>2</sup> utilizes [Hullagon aka. R3 V4N4G0N plate](https://trashman.wiki/en/files#v4n4g0n) and mounting. The bottom part can be used without the top part as a low profile case.
 
-## Hardwares
-
-4 Heatset insert, size M2
-![heatset](renders/support/m2-heatset-inserts.jpg "Heatset insert")
-
-4 Screws, size M2, socket head is highly recommended
-![screws](renders/support/m2-socket-head-screws.jpg "Screw")
-
 ## Variants
 
 The bottom part has 2 variants: Angled (5&deg;) and Flat.
@@ -50,6 +42,14 @@ WKL-style blocker with symmetrical 1u blockers on the left and right side.
 | V4N4G0N R1/2/3 | <ul><li>Angled single port</li><li>Flat single port</li> | Universal |
 | Monorail | <ul><li>Angled single port</li><li>Angled dual ports</li><li>Flat single port</li><li>Flat dual poorts</li></ul> | Universal |
 | Monorail Steam | <ul><li>Angled single port</li><li>Angled dual ports</li><li>Flat single port</li><li>Flat dual poorts</li></ul> | <ul><li>Universal</li><li>HHKB</li><li>WKL</li></ul> |
+
+## Hardwares
+
+4 Heatset insert, size M2
+![heatset](renders/support/m2-heatset-inserts.jpg "Heatset insert")
+
+4 Screws, size M2, socket head is highly recommended
+![screws](renders/support/m2-socket-head-screws.jpg "Screw")
 
 ## Notes
 
